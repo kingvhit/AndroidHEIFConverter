@@ -1,16 +1,16 @@
-**HEIFReader** & **HEIFWriter** for Android Guide Line.
+### **HEIFReader** & **HEIFWriter** for Android Guide Line.
 
 - Convert from HEIC to JPG/JPEG/PNG.
 - Convert JPG/JPEG/PNG to HEIC. 
 
 ------
 
-#### Prerequisite
+### Prerequisite
 
 - Android SDK: API 28 and above.
 - Working well as Android 28+ (for HEIFWriter).
 
-#### Features
+### Features
 
 **HEIFWriter**
 
@@ -97,13 +97,13 @@ Code:
 
 All of the code is still not publishing yet.
 
-**Demo**
+### **Demo**
 
 I'm successfully do all the converting between HEIF format for Android and publish that code into Google Play as here. Try to test it and welcome any questions.
 
 ![https://play.google.com/store/apps/details?id=com.cellhubs.multipleconverterpro](google-play-badge.png)
 
-#### License
+### License
 
 ```
 MIT License
