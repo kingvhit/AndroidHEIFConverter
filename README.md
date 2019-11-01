@@ -103,6 +103,10 @@ I'm successfully do all the converting between HEIF format for Android and publi
 
 ![https://play.google.com/store/apps/details?id=com.cellhubs.multipleconverterpro](google-play-badge.png)
 
+```
+<a href='https://play.google.com/store/apps/details?id=com.cellhubs.multipleconverterpro'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="70px"/></a>
+```
+
 ### License
 
 ```
