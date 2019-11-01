@@ -101,9 +101,6 @@ All of the code is still not publishing yet.
 
 I'm successfully do all the converting between HEIF format for Android and publish that code into Google Play as here. Try to test it and welcome any questions.
 
-![https://play.google.com/store/apps/details?id=com.cellhubs.multipleconverterpro](google-play-badge.png)
-
-
 <a href='https://play.google.com/store/apps/details?id=com.cellhubs.multipleconverterpro'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="70px"/></a>
 
 
